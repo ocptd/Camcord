@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Node / Expo
+node_modules/
+.expo/
+dist/
+
+# OS / editor
+.DS_Store
+Thumbs.db

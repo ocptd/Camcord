@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Auto Camera Control",
+    "slug": "auto-camera-control",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {},
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
